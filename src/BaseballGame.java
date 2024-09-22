@@ -24,6 +24,7 @@ public class BaseballGame {
             System.out.print(x);
         }
     }
+
     public void play() {    // 입력받아서 두 배열 비교하고 계산, 정답 비교
         Scanner sc = new Scanner(System.in);
         while (true) {
